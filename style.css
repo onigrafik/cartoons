@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+/* incorporo reglas de documento*/
+.caja1{
+    width: 600px;
+    height: 600px;
+    background-color: pink;
+    border: 2px violet solid;
+    padding: 10px 30px 30px 10px;
+    margin: 10px;
+    background-image: url(img/pantera2.png.crdownload);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 10rem;
+}  
+h3{
+    font-family: 'Covered By Your Grace', cursive;
+    
+}
+.caja2{
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    border: 2px yellow solid;
+    padding: 10px 30px 30px 10px;
+    margin: 10px;
+    background-image: url(img/imh.png.crdownload);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 10rem;
+}  
+h2{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 10rem;
+    
+}
